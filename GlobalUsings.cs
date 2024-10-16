@@ -7,5 +7,3 @@ global using SunamoCollectionsNonGeneric._sunamo.SunamoExceptions;
 global using System.Diagnostics;
 global using System.Reflection;
 global using System.Net;
-global using SunamoCollectionsNonGeneric._sunamo;
-global using SunamoCollectionsNonGeneric._sunamo.SunamoStringGetLines;
