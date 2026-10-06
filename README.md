@@ -1,5 +1,10 @@
 # SunamoCollectionsNonGeneric
 
+## Short description
+
+Knihovna negenerických kolekcí. Je pomalejší než generické, ale hodí se tam, kde jsou potřeba negenerická rozhraní.
+
+
 Non-generic collections library. Low performance compared to generic collections but useful for scenarios requiring non-generic interfaces.
 
 ## Overview
